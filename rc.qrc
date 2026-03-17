@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wooden_2.bmp</file>
+    </qresource>
+</RCC>
